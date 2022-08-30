@@ -24,6 +24,6 @@ Don't like Raindrop's color scheme? You can change that? Don't like how the modu
 
 ### ❤️ Buy us a coffee
 
-We spend countless hours of our lives into update Raindrop and it's subsequent repositories. It would mean the world to us if you donated to us on [Ko-fi](https://ko-fi.com/raindrop_team). Every penny counts, and donating helps keep us motivated to work on the project.
+We spend countless hours of our lives into updating Raindrop and it's subsequent repositories. It would mean the world to us if you donated to us on [Ko-fi](https://ko-fi.com/raindrop_team). Every penny counts, and donating helps keep us motivated to work on the project.
 
 Raindrop Client, made with ❤️, from the Raindrop Team.
